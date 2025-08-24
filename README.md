@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
- Hi there! I'm an IT student passionate about technology and software development. I enjoy exploring various programming languages and frameworks, and I'm constantly learning new skills to enhance my coding abilities. My interests include web development, cybersecurity, and data analysis.<br><br>🌱 Currently, I'm working on projects that involve [mention any specific technologies or languages you are using JavaScript, Python, React. I love collaborating with others and contributing to open-source projects.
+ Hi there! I'm an IT student passionate about technology and software development. I enjoy exploring various programming languages and frameworks, and I'm constantly learning new skills to enhance my coding abilities. My interests include web development, cybersecurity, and data analysis.<br><br>🌱 Currently, I'm working on projects that involve using JavaScript, Python, React. I love collaborating with others and contributing to open-source projects.
 
 
 ## 🌐 Socials:
